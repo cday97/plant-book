@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mere.eirik.re/sitemap.xml.gz
+Sitemap: https://cday97.github.io/plant-book/sitemap.xml.gz
