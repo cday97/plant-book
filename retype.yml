@@ -1,7 +1,7 @@
 url: cday97.github.io/plant-book/
 locale: en
 edit:
-  repo: github.com/cday97/plant-book/edit
+  repo: github.com/cday97/plant-book
   base: /src
   label: "Rediger denne siden"
 input: ./src
