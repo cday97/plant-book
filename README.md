@@ -1,4 +1,4 @@
-# Simple Recipes Cookbook
+# Simple GitHub Cookbook
 
 > _Create your own online cookbook with minimal effort_
 
@@ -23,7 +23,7 @@ To get your own online cookbook set up:
 5. Finally, go to `Settings -> Pages` in your repository, and set GitHub pages to be
    built from the `retype` branch.
 
----
+----
 
 The video below show the whole process of setting up a new site. The speed is 3x the
 original, so it took less than 4 minutes to complete!
@@ -32,6 +32,7 @@ You can find the generated repo
 [here](https://github.com/flottflyt/simple-recipes-cookbook) with the website deployed
 at
 [https://flottflyt.github.io/simple-recipes-cookbook](https://flottflyt.github.io/simple-recipes-cookbook).
+
 
 https://user-images.githubusercontent.com/38856990/167300712-b58bd13e-8d7c-4070-b210-4c6ace324b25.mov
 
@@ -69,15 +70,3 @@ examples of what is possible with [retype](https://retype.com/), visit their
 [website](https://retype.com/) and have a look at my
 [example repository](https://github.com/flottflyt/simple-recipes-cookbook).
 
-## Community
-
-For more examples, check out some repos forked from this one!
-
-- [@4thehalibit](https://github.com/4thehalibit)
-  ([repo](https://github.com/4thehalibit/Westbergs-Cookbook),
-  [website](https://4thehalibit.github.io/Westbergs-Cookbook/))
-- [@bafulton](https://github.com/bafulton) ([repo](https://github.com/bafulton/recipes),
-  [website](https://bafulton.github.io/recipes/))
-
-> :information_source: If you have a fork of the simple recipes cookbook and would like
-> to have it linked here, feel free to create a pull request!
