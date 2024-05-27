@@ -4,14 +4,19 @@
     <title>Blog</title>
     <link>https://cday97.github.io/plant-book/blog/</link>
     <description>Blog</description>
-    <copyright>Copyleft 2024. All rights reversed. Fork me on GitHub</copyright>
+    <copyright>Copyleft 2024. All rights reSERVED. Fork me on GitHub</copyright>
     <lastBuildDate>Tue, 24 May 2022 00:00:00 GMT</lastBuildDate>
     <generator>https://retype.com</generator>
     <atom:link rel="self" type="application/rss+xml" href="https://cday97.github.io/plant-book/blog/feed.xml" />
+    <image>
+      <title>Blog</title>
+      <link>https://cday97.github.io/plant-book/blog/</link>
+      <url>https://cday97.github.io/plant-book/favicon.png</url>
+    </image>
     <item>
-      <title>Hvordan bidra</title>
+      <title>How to Contribute</title>
       <guid isPermaLink="true">https://cday97.github.io/plant-book/blog/2022-5-24-hvordan-bidra/</guid>
-      <description>Om du ønsker å legge inn en oppskrift selv for så å lage en innlemmelsesforespørsel(pull request, PR), kan du gjøre det ved å følge disse stegene.</description>
+      <description>If you want to add a recipe yourself and then create a pull request, you can do so by following these steps.</description>
       <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
     </item>
   </channel>
