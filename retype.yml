@@ -7,9 +7,9 @@ edit:
 input: ./src
 output: ./docs
 branding:
-  title: Bon Appétit
+  title: Plant Cook Book
 meta:
-  title: " | Dolby food for everyone"
+  title: " | Plant food for everyone"
 links:
   - text: Tags
     link: ./tags
@@ -21,12 +21,12 @@ links:
     link: ./blog
     icon: book
   - text: Suggest a recipe
-    link: https://github.com/cday97/plant-book/issues/new?assignees=4thehalibit&labels=new+recipe&projects=&template=recipe-request.md&title=%5BNEW+RECIPE+SUBMISSION%5D
+    link: https://github.com/cday97/plant-book/issues/new?assignees=cday97&labels=new+recipe&projects=&template=recipe-request.md&title=%5BNEW+RECIPE+SUBMISSION%5D
     icon: git-pull-request
 footer:
-  copyright: "Copyleft {{ year }}. All rights reSERVED. Fork me on [GitHub](https://github.com/4thehalibit/Westbergs-Cookbook)"
+  copyright: "Copyleft {{ year }}. All rights reSERVED. Fork me on [GitHub](https://github.com/cday97/plantbook)"
   links:
     - text: GitHub
       icon: mark-github
-      link: https://github.com/4thehalibit
+      link: https://github.com/cday97
  

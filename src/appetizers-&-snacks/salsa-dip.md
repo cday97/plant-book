@@ -1,0 +1,45 @@
+---
+label: Erikson's Salsa Dip
+tags: [giftworthy, spicy]
+categories: []
+authors:
+  - name: Sam Erikson
+    link: 
+route: /appetizers-snacks/salsa-dip
+---
+
+# Erikson's Salsa Dip
+![This is a fresh, tasty, and exciting salsa dip. We spent $25 at a ward aution to get two jars of it!](/static/banners/salsa-dip.jpg)
+
+||| :timer_clock: Prep Time
+2 minutes 
+||| :timer_clock: Total Time
+10 minutes
+||| :knife_fork_plate: Serves
+15
+||| :cook: Difficulty Level
+Easy
+|||
+
+## Ingredients
+- 1 can of tomatoes (30 oz)
+- 1 can of mexican tomatoes (tomatoes with green chiles) (15 oz)
+- 1 bunch of green onions (ends cut off)
+- 1 bunch of cilantro (ends cut off)
+- 1 tsp of garlic salt
+- 1 tsp salt
+- 1/4 tsp oregano flakes
+- dash of cumin
+- dash of chili powder
+- 1 jalepeno pepper (1 jalapeno pepper)
+
+## Instructions
+1. Put everything into a blender
+2. Pulse 5-6 times (or until slightly chunky)
+
+Sometimes I put aside half of the salsa for the non-spicy people, then add a jalapeno with the seeds to the other half, pulse a few more times, and create a half full of spice.
+
+## Resources
+==- Recipe
+![](/static/recipes/salsa-dip.png) 
+===
