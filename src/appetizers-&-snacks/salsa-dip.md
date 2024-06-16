@@ -22,6 +22,9 @@ Easy
 |||
 
 ## Ingredients
+
++++ 1x
+
 - 1 can of tomatoes (30 oz)
 - 1 can of mexican tomatoes (tomatoes with green chiles) (15 oz)
 - 1 bunch of green onions (ends cut off)
@@ -32,6 +35,34 @@ Easy
 - dash of cumin
 - dash of chili powder
 - 1 jalepeno pepper (1 jalapeno pepper)
+
++++ 2x
+
+- 2 can of tomatoes (30 oz)
+- 2 can of mexican tomatoes (tomatoes with green chiles) (15 oz)
+- 2 bunch of green onions (ends cut off)
+- 2 bunch of cilantro (ends cut off)
+- 2 tsp of garlic salt
+- 2 tsp salt
+- 1/2 tsp oregano flakes
+- 2 dash of cumin
+- 2 dash of chili powder
+- 2 jalepeno pepper (1 jalapeno pepper)
+
++++ 3x
+
+- 3 can of tomatoes (30 oz)
+- 3 can of mexican tomatoes (tomatoes with green chiles) (15 oz)
+- 3 bunch of green onions (ends cut off)
+- 3 bunch of cilantro (ends cut off)
+- 3 tsp of garlic salt
+- 3 tsp salt
+- 3/4 tsp oregano flakes
+- 3 dash of cumin
+- 3 dash of chili powder
+- 3 jalepeno pepper (1 jalapeno pepper)
+
++++
 
 ## Instructions
 1. Put everything into a blender

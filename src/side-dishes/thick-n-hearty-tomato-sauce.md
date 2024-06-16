@@ -23,20 +23,20 @@ route: src/side-dishes/naan.md
 
 ## Ingredients
 
-- [ ] 2 tablespoons plus 2 1/2 - 3 cups water, divided
-- [ ] 4 medium-large cloves garlic, chopped
-- [ ] 1 1/4 teaspoons sea salt
-- [ ] Freshly ground black pepper to taste (optional)
-- [ ] 1/4 cup white wine (optional; *see note*)
-- [ ] 2 cups dried lentils, rinsed
-- [ ] 1 can (28 oz) or box (26 ox) crushed tomatoes (*see note*)
-- [ ] 1 cup finely grated or minced carrot (*see note*)
-- [ ] 1/4 cup tomato paste or 1/2 cup sun-dried tomatoes
-- [ ] 2 teaspoons dried basil
-- [ ] 1 teaspoon dried oregano
-- [ ] 1/2 teaspoon fennel seed (*see note*)
-- [ ] 1 tablespoon balsamic vinegar
-- [ ] 1 1/2 - 2 teaspoons pure maple syrup
+- 2 tablespoons plus 2 1/2 - 3 cups water, divided
+- 4 medium-large cloves garlic, chopped
+- 1 1/4 teaspoons sea salt
+- Freshly ground black pepper to taste (optional)
+- 1/4 cup white wine (optional; *see note*)
+- 2 cups dried lentils, rinsed
+- 1 can (28 oz) or box (26 ox) crushed tomatoes (*see note*)
+- 1 cup finely grated or minced carrot (*see note*)
+- 1/4 cup tomato paste or 1/2 cup sun-dried tomatoes
+- 2 teaspoons dried basil
+- 1 teaspoon dried oregano
+- 1/2 teaspoon fennel seed (*see note*)
+- 1 tablespoon balsamic vinegar
+- 1 1/2 - 2 teaspoons pure maple syrup
 
 
 **Wine Note**: The alcohol burns off through simmering and leaves a lovely flavor, but you can omit if you prefer
@@ -62,6 +62,35 @@ route: src/side-dishes/naan.md
 8. Serve over pasta, quinoa, rice, or layer in lasagna.
 
 
+
+# Multiplication Example
+
+Here are some numbers:
+
+- Number: <span class="number">1</span>
+- Number: <span class="number">2</span>
+- Number: <span class="number">3</span>
+
+<button onclick="multiplyNumbers(1)">Multiply by 1</button>
+<button onclick="multiplyNumbers(2)">Multiply by 2</button>
+<button onclick="multiplyNumbers(3)">Multiply by 3</button>
+
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/brython@3.9.5/brython.min.js"></script>
+<script type="text/python">
+from browser import document
+
+def multiplyNumbers(event):
+    factor = int(event.target.text.split()[-1])
+    numbers = document.select(".number")
+    for number_element in numbers:
+        original_value = float(number_element.text)
+        new_value = original_value * factor
+        number_element.text = str(new_value)
+
+buttons = document.select("button")
+for button in buttons:
+    button.bind("click", multiplyNumbers)
+</script>
 
 
 
