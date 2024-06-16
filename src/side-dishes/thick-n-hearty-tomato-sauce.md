@@ -6,7 +6,7 @@ categories:
 authors:
   - name: Megan Day
     link: 
-route: src/side-dishes/naan.md
+route: src/side-dishes/thick-n-hearty-tomato-sauce.md
 ---
 
 # Thick 'N Hearty Tomato Sauce
@@ -23,13 +23,15 @@ route: src/side-dishes/naan.md
 
 ## Ingredients
 
++++ 1x
+
 - 2 tablespoons plus 2 1/2 - 3 cups water, divided
 - 4 medium-large cloves garlic, chopped
 - 1 1/4 teaspoons sea salt
 - Freshly ground black pepper to taste (optional)
 - 1/4 cup white wine (optional; *see note*)
 - 2 cups dried lentils, rinsed
-- 1 can (28 oz) or box (26 ox) crushed tomatoes (*see note*)
+- 1 can (28 oz) or box (26 oz) crushed tomatoes (*see note*)
 - 1 cup finely grated or minced carrot (*see note*)
 - 1/4 cup tomato paste or 1/2 cup sun-dried tomatoes
 - 2 teaspoons dried basil
@@ -38,6 +40,41 @@ route: src/side-dishes/naan.md
 - 1 tablespoon balsamic vinegar
 - 1 1/2 - 2 teaspoons pure maple syrup
 
++++ 2x
+
+- 4 tablespoons plus 5 - 6 cups water, divided
+- 8 medium-large cloves garlic, chopped
+- 2 1/2 teaspoons sea salt
+- Freshly ground black pepper to taste (optional)
+- 1/2 cup white wine (optional; *see note*)
+- 4 cups dried lentils, rinsed
+- 2 can (56 oz) or box (52 oz) crushed tomatoes (*see note*)
+- 2 cup finely grated or minced carrot (*see note*)
+- 1/2 cup tomato paste or 1/2 cup sun-dried tomatoes
+- 4 teaspoons dried basil
+- 2 teaspoon dried oregano
+- 1 teaspoon fennel seed (*see note*)
+- 2 tablespoon balsamic vinegar
+- 3 - 4 teaspoons pure maple syrup
+
++++ 3x
+
+- 6 tablespoons plus 7 1/2 - 9 cups water, divided
+- 12 medium-large cloves garlic, chopped
+- 3 3/4 teaspoons sea salt
+- Freshly ground black pepper to taste (optional)
+- 3/4 cup white wine (optional; *see note*)
+- 6 cups dried lentils, rinsed
+- 3 can (84 oz) or box (78 oz) crushed tomatoes (*see note*)
+- 3 cup finely grated or minced carrot (*see note*)
+- 3/4 cup tomato paste or 1/2 cup sun-dried tomatoes
+- 6 teaspoons dried basil
+- 3 teaspoon dried oregano
+- 1 1/2 teaspoon fennel seed (*see note*)
+- 3 tablespoon balsamic vinegar
+- 4 1/2 - 6 teaspoons pure maple syrup
+
++++
 
 **Wine Note**: The alcohol burns off through simmering and leaves a lovely flavor, but you can omit if you prefer
 
@@ -52,48 +89,14 @@ route: src/side-dishes/naan.md
 
 
 ## Instructions
-1. Add 2 tablespoons water, garlic, sea salt, and black pepper to a large pot.
+1. Add tablespoons water, garlic, sea salt, and black pepper to a large pot.
 2. Turn heat to medium-low, and cook for 4-5 minutes. Don't let the garlic burn (reduce heat if needed).
 3. Add the wine, bing head to a boail, and let bubble for a minute or two.
-4. add lentils, tomatoes, carrot, tomato paste, basil, oregano, fennel seed, remaining 2 1/2 cups watter, vinegar, and maple syrup.
+4. add lentils, tomatoes, carrot, tomato paste, basil, oregano, fennel seed, remaining cups water, vinegar, and maple syrup.
 5. Increase heat to high to bring mixture to a boil. Then reduce heat to medium-low, cover, and cook for 25 minutes, stirring occasionally.
 6. If, after 25 minutes, the lentils aren't softened, add more water and simmer again until cooked through.
 7. Taste, season as desired, and thin with water if needed. if you like, use an immersion blender to puree and smooth out the sauce. 
 8. Serve over pasta, quinoa, rice, or layer in lasagna.
-
-
-
-# Multiplication Example
-
-Here are some numbers:
-
-- Number: <span class="number">1</span>
-- Number: <span class="number">2</span>
-- Number: <span class="number">3</span>
-
-<button onclick="multiplyNumbers(1)">Multiply by 1</button>
-<button onclick="multiplyNumbers(2)">Multiply by 2</button>
-<button onclick="multiplyNumbers(3)">Multiply by 3</button>
-
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/brython@3.9.5/brython.min.js"></script>
-<script type="text/python">
-from browser import document
-
-def multiplyNumbers(event):
-    factor = int(event.target.text.split()[-1])
-    numbers = document.select(".number")
-    for number_element in numbers:
-        original_value = float(number_element.text)
-        new_value = original_value * factor
-        number_element.text = str(new_value)
-
-buttons = document.select("button")
-for button in buttons:
-    button.bind("click", multiplyNumbers)
-</script>
-
-
-
 
 
 

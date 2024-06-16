@@ -34,11 +34,11 @@ Easy
 - 1/4 tsp oregano flakes
 - dash of cumin
 - dash of chili powder
-- 1 jalepeno pepper (1 jalapeno pepper)
+- 1 jalepeno pepper
 
 +++ 2x
 
-- 2 can of tomatoes (30 oz)
+- 2 can of tomatoes (60 oz)
 - 2 can of mexican tomatoes (tomatoes with green chiles) (15 oz)
 - 2 bunch of green onions (ends cut off)
 - 2 bunch of cilantro (ends cut off)
@@ -47,11 +47,11 @@ Easy
 - 1/2 tsp oregano flakes
 - 2 dash of cumin
 - 2 dash of chili powder
-- 2 jalepeno pepper (1 jalapeno pepper)
+- 2 jalepeno pepper
 
 +++ 3x
 
-- 3 can of tomatoes (30 oz)
+- 3 can of tomatoes (90 oz)
 - 3 can of mexican tomatoes (tomatoes with green chiles) (15 oz)
 - 3 bunch of green onions (ends cut off)
 - 3 bunch of cilantro (ends cut off)
@@ -60,7 +60,7 @@ Easy
 - 3/4 tsp oregano flakes
 - 3 dash of cumin
 - 3 dash of chili powder
-- 3 jalepeno pepper (1 jalapeno pepper)
+- 3 jalepeno pepper
 
 +++
 

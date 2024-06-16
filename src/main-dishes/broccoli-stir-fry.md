@@ -22,6 +22,8 @@ route: /main-dishes/broccoli-stir-fry.md
 
 ## Ingredients
 
++++ 1x
+
 **Stir Fry**
 - 1 tablespoon oil
 - 1 onion diced
@@ -42,6 +44,54 @@ route: /main-dishes/broccoli-stir-fry.md
 - 2 tablespoons rice vinegar or basalmic vinegar
 - 2 tablespoons maple syrup or any other sweetener
 - 1 tablespoon cornstarch
+
++++ 2x
+
+**Stir Fry**
+- 2 tablespoon oil
+- 2 onion diced
+- 10 garlic gloves minced
+- 2 heaped tablespoon fresh ginger minced
+- 2 teaspoon onion powder1 teaspoon paprika
+- 1 teaspoon smoked paprika
+- Black pepper & sea salt to taste
+- 2 Pinch of cayenne pepper
+- 2 (900g) medium head of broccoli cut into small florets
+- 2/3 cup (160ml) vegetable broth
+- 2 (30 oz) can of chickpeas rinsed and drained
+- Cooked rice of choice for serving
+
+**Sauce**
+- 1 cup (240 ml) of water
+- 6 tablespoons soy sauce
+- 4 tablespoons rice vinegar or basalmic vinegar
+- 4 tablespoons maple syrup or any other sweetener
+- 2 tablespoon cornstarch
+
++++ 3x
+
+**Stir Fry**
+- 3 tablespoon oil
+- 3 onion diced
+- 15 garlic gloves minced
+- 3 heaped tablespoon fresh ginger minced
+- 3 teaspoon onion powder1 teaspoon paprika
+- 1 1/2 teaspoon smoked paprika
+- Black pepper & sea salt to taste
+- 3 Pinch of cayenne pepper
+- 3 (1350g) medium head of broccoli cut into small florets
+- 1 cup (240ml) vegetable broth
+- 3 (45 oz) can of chickpeas rinsed and drained
+- Cooked rice of choice for serving
+
+**Sauce**
+- 1 1/2 cup (360 ml) of water
+- 9 tablespoons soy sauce
+- 6 tablespoons rice vinegar or basalmic vinegar
+- 6 tablespoons maple syrup or any other sweetener
+- 3 tablespoon cornstarch
+
++++
 
  ...
 
