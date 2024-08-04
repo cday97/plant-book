@@ -34,5 +34,5 @@ authors:
 3. Serve warm/hot.
 
 ## Resources
-[!ref target="blank" text="Recipe"](https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/)
-[!ref target="blank" text="Archive"](https://archive.is/xONP1)
+ - [!ref target="blank" text="Recipe"](https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/)
+ - [!ref target="blank" text="Archive"](https://archive.is/xONP1)

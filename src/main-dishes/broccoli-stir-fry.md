@@ -106,5 +106,5 @@ route: /main-dishes/broccoli-stir-fry.md
 7. Serve alone or with cooked rice. Enjoy!
 
 ## Resources 
-[!ref target="blank" text="Recipe"](https://www.reddit.com/r/vegetarianrecipes/comments/1apb505/garlic_broccoli_stir_fry/)
+ - [Original Recipe](https://www.reddit.com/r/vegetarianrecipes/comments/1apb505/garlic_broccoli_stir_fry/)
 

@@ -86,19 +86,3 @@ route: src/side-dishes/sunflower-mac-n-cheeze.md
 4. Transfer the vegetable mixture to a blender with the cornstarch, lemon juice, turmeric, paprika, nutritional yeast, and tomato paste. Puree until very creamy and smooth, scraping down the sides as neede.d
 5. Return the puree to the pot and simmer over low heat until just thickened. Taste and add more salt, pepper, and/or lemon juice as needed. Add the cooked pasta and stir to combine. Serve!
 
-
-
-<!--- Different Styles of Resources for the bottom of the page
-
-## Resources 
-[!ref target="blank" text="Recipe"](https://www.tastesoflizzyt.com/spiced-cranberry-apple-cider/)
-[!ref target="blank" text="Archive"](https://archive.is/xONP1)
-
-## Picture of recipe card stored on GitHub
-
-==- Recipe (front)
-![](/static/recipes/butter-pecan-cake-front.jpg)
-==- Recipe (back)
-![](/static/recipes/butter-pecan-cake-back.jpg)
-
--->

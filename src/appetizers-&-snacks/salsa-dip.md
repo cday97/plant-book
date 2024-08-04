@@ -69,8 +69,3 @@ Easy
 2. Pulse 5-6 times (or until slightly chunky)
 
 Sometimes I put aside half of the salsa for the non-spicy people, then add a jalapeno with the seeds to the other half, pulse a few more times, and create a half full of spice.
-
-## Resources
-==- Recipe
-![](/static/recipes/salsa-dip.png) 
-===
